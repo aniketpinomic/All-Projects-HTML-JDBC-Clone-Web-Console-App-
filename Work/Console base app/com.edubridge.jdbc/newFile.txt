@@ -1,0 +1,8 @@
+----------------------------------------------------------------------------
+Customer Name: Aniket
+Customer Address: Pune
+Date and Time: 2022-11-24 14:08:48.654101
+Quantity: 3
+List of Purchase Item: [Daal Tur, Oil Soyabin, Daal Tur]
+Total Purchasr Ammount: 295
+----------------------------------------------------------------------------
